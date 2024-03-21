@@ -1,0 +1,7 @@
+Product data of Westminster online shopping system.
+
+Clothing/Frock/1/Blue/ADK/5000.0/9
+Electronics/2/Phone/50000.0/2/AK/4
+Clothing/Skirt/3/Green/ADK/2500.0/10
+Electronics/5/Fan/20000.0/5/ADK/2
+Clothing/T shirt/9/Red/ADK/1000.0/8
